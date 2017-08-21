@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "GitHub",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=solutiontemplatelqomd5xs;AccountKey=PfKFdxJO3MDocPWmDjTU8fIT4WaIFT5XOGCapJDZuktxwE19S55vOxJ6N7tO9pt5svuPoyJRSPwS9ltYL0iGig==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=solutiontemplatelqomd5xs;AccountKey=PfKFdxJO3MDocPWmDjTU8fIT4WaIFT5XOGCapJDZuktxwE19S55vOxJ6N7tO9pt5svuPoyJRSPwS9ltYL0iGig==",
+    "WEBSITE_CONTENTSHARE": "oqejnw45wjg",
+    "WEBSITE_SITE_NAME": "oqejnw45wjg",
+    "WEBSITE_SLOT_NAME": "Production",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=solutiontemplatelqomd5xs;AccountKey=PfKFdxJO3MDocPWmDjTU8fIT4WaIFT5XOGCapJDZuktxwE19S55vOxJ6N7tO9pt5svuPoyJRSPwS9ltYL0iGig=="
+  }
+}
